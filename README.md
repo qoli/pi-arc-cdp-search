@@ -114,6 +114,10 @@ pi -e ./arc-cdp-search.ts
 
 Packaging follows the [Pi package documentation](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/packages.md). A Pi extension is loaded directly from TypeScript; no build step is needed.
 
+## Community
+
+- [LINUX DO](https://linux.do/)
+
 ## License
 
 [MIT](LICENSE) © Ronnie W.

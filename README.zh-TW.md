@@ -114,6 +114,10 @@ pi -e ./arc-cdp-search.ts
 
 套件遵循 [Pi package 格式](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/packages.md)，直接載入 TypeScript，不需要編譯步驟。
 
+## 社區
+
+- [LINUX DO](https://linux.do/)
+
 ## 授權
 
 [MIT](LICENSE) © Ronnie W.
